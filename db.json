@@ -1,36 +1,133 @@
 {
-	"data" : [ 
+	"data": [{
+			"dealer_id": "45",
+			"flag": "Active",
+			"make": "MARUTI SUZUKI",
+			"model": "BALENO",
+			"variant": "ALPHA",
+			"fuel_type": "PETROL",
+			"transmission": "manual",
+			"manufacture_year": "2015",
+			"location": {
+				"state": "Maharashtra",
+				"city": "Mumbai"
+			},
+			"general_price": "690000",
+			"dealer_price": "690000",
+			"segment_type": "C",
+			"body_style": "HATCHBACK",
+			"seating_capcity": "4",
+			"color": "Star Silver",
+			"stock_color": "SILVER",
+			"kms": "17935",
+			"owner": "1",
+			"params": {
+				"surveyor_km": "17935",
+				"dealer_sold_km": "",
+				"cust_city": ""
+			},
+			"sales_area_manager_id": null,
+			"client_ip": "52.76.115.142",
+			"created_at": "2017-10-17 16:12:53",
+			"email": "Bharat.lalchandani@hotmail.com",
+			"offers": []
+		},
 		{
-	        "color": "blue",
-	        "price": 10000,
-	        "faceRecognition": null,
-	        "gps": true,
-	        "frontCam": "12MP",
-	        "category": null
-	    },
-	    {
-	        "color": "red",
-	        "price": 10000,
-	        "faceRecognition": null,
-	        "gps": false,
-	        "frontCam": "12MP",
-	        "category": null
-	    },
-	    {
-	        "color": "blue",
-	        "price": 10000,
-	        "faceRecognition": null,
-	        "gps": true,
-	        "frontCam": "12MP",
-	        "category": null
-	    },
-	    {
-	        "color": "red",
-	        "price": 10000,
-	        "faceRecognition": null,
-	        "gps": false,
-	        "frontCam": "12MP",
-	        "category": null
-	    }
-    ]
+			"dealer_id": "45",
+			"flag": "Active",
+			"make": "MARUTI SUZUKI",
+			"model": "BALENO",
+			"variant": "ALPHA",
+			"general_price": "690000",
+			"dealer_price": "690000",
+			"segment_type": "C",
+			"body_style": "HATCHBACK",
+			"seating_capcity": "4",
+			"color": "Star Silver",
+			"stock_color": "SILVER",
+			"kms": "17935",
+			"owner": "1",
+			"params": {
+				"surveyor_km": "17935",
+				"dealer_sold_km": "",
+				"cust_city": ""
+			},
+			"sales_area_manager_id": null,
+			"email": "Bharat.lalchandani@hotmail.com",
+			"offers": []
+		},
+		{
+			"dealer_id": "45",
+			"flag": "Active",
+			"make": "MARUTI SUZUKI",
+			"model": "BALENO",
+			"variant": "ALPHA",
+			"dealer_price": "690000",
+			"segment_type": "C",
+			"body_style": "HATCHBACK",
+			"seating_capcity": "4",
+			"color": "Star Silver",
+			"stock_color": "SILVER",
+			"kms": "17935",
+			"owner": "1",
+			"params": {
+				"surveyor_km": "17935",
+				"dealer_sold_km": "",
+				"cust_city": ""
+			},
+			"sales_area_manager_id": null,
+			"email": "Bharat.lalchandani@hotmail.com",
+			"offers": []
+		},
+		{
+			"dealer_id": "45",
+			"flag": "Active",
+			"make": "MARUTI SUZUKI",
+			"model": "BALENO",
+			"variant": "ALPHA",
+			"general_price": "690000",
+			"dealer_price": "690000",
+			"segment_type": "C",
+			"body_style": "HATCHBACK",
+			"seating_capcity": "4",
+			"color": "Star Silver",
+			"stock_color": "SILVER",
+			"kms": "17935",
+			"owner": "1",
+			"params": {
+				"surveyor_km": "17935",
+				"dealer_sold_km": "",
+				"cust_city": ""
+			},
+			"sales_area_manager_id": null,
+			"email": "Bharat.lalchandani@hotmail.com",
+			"offers": []
+		}
+	],
+	"attributes": [
+		"dealer_id",
+		"flag",
+		"make",
+		"model",
+		"variant",
+		"fuel_type",
+		"transmission",
+		"manufacture_year",
+		"location",
+		"general_price",
+		"dealer_price",
+		"segment_type",
+		"body_style",
+		"seating_capcity",
+		"color",
+		"stock_color",
+		"kms",
+		"owner",
+		"params",
+		"sales_area_manager_id",
+		"client_ip",
+		"created_at",
+		"email",
+		"offers"
+	]
 }
